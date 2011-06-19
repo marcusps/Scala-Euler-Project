@@ -20,6 +20,7 @@ object P003 {
 
   def main(args : Array[String]) {
     println( maxfactor( 600851475143L, 3, List( 2 ) ) )
+    // expected output: 6857
   }
 
 }
